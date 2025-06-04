@@ -56,15 +56,4 @@
 
 <hr>
 
-### 📈 Mis estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorAlmenaFhecor&show_icons=true&theme=tokyonight" alt="Victor Almena GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlmenaFhecor&layout=compact&theme=tokyonight" alt="Victor Almena Top Languages" />
-</p>
-
----
 
